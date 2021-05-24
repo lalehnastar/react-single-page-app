@@ -1,0 +1,21 @@
+.slideout{
+    text-align: left;
+    width:70px;
+height:70px;
+background:pink;
+border: 2px solid black;
+border-radius: 5px;
+position: relative;
+display:inline-block;
+top: 10%;
+left: 10%;
+-webkit-transform: translate(-50%, -50%) rotate(-8deg) ;
+   -moz-transform: translate(-50%, -50%) rotate(-8deg) ;
+     -ms-transform: translate(-50%, -50%) rotate(-8deg) ;
+        -o-transform: translate(-50%, -50%) rotate(-8deg) ;
+           transform: translate(-50%, -50%) rotate(-8deg) ;
+
+}
+#p-slideout{
+   color: blueviolet;
+}

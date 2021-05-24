@@ -1,0 +1,49 @@
+.App {
+  color:balck;
+  background-color: white;
+  animation-name: example;
+  animation-duration: 2s;
+  text-align: left;
+  
+}
+
+
+.App-header {
+  background-color: black;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+@keyframes example {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:white; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+#h2_one{
+  color: balck;
+  text-align: center;
+  background-color: plum;
+}
+
+#h2_two{
+  color: black;
+   text-align: center;
+   background-color: plum;
+  
+}
+
+
+
+
