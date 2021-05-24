@@ -11,7 +11,7 @@ import './components/Modal.css'
 
 
 
-// delay
+// Delay
 const delay = 2;
 function App(){
   const [show,setShow]= useState(false)
