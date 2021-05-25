@@ -6,7 +6,8 @@ This app provides a platform to have access to Users API(API_URL:http://jsonplac
 
 To design the app an animation is used at the beginning of the app which machets the delay function implemented the duration of the delay is set to 2s and is configurable. The app also uses react-confetti which welcomes the users after waiting time(delay) is over.
 
-![alt text](images/Screen Shot 2021-05-24 at 13.41.08.png)  
+
+
 
 ## Available Scripts
 
